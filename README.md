@@ -8,6 +8,7 @@ This is a simple boilerplate for simple usecase. I created this because whenever
 * Run `npm i` and then `npm start` to get started with project.
 
 ## Package Installed.
+* eslint configure (airbnb style guide)
 * redux
 * react-redux
 * react-router-dom
